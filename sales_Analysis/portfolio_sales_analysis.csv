@@ -1,0 +1,21 @@
+Order_ID,Customer,Product,Category,Quantity,Unit_Price,Region,Total_Sales
+ORD001,Thabo,Laptop,Electronics,1,12000,Gauteng,12000
+ORD002,Lerato,Mouse,Accessories,3,350,Gauteng,1050
+ORD003,Sipho,Keyboard,Accessories,2,650,Western Cape,1300
+ORD004,Naledi,Monitor,Electronics,1,4200,Gauteng,4200
+ORD005,Jason,Laptop,Electronics,2,12000,KwaZulu-Natal,24000
+ORD006,Aisha,Headphones,Accessories,2,1800,Western Cape,3600
+ORD007,Mpho,Monitor,Electronics,3,4200,Gauteng,12600
+ORD008,Kagiso,Laptop,Electronics,1,12000,Gauteng,12000
+ORD009,Sarah,Mouse,Accessories,4,350,Eastern Cape,1400
+ORD010,Daniel,Keyboard,Accessories,2,650,Gauteng,1300
+ORD011,Palesa,Laptop,Electronics,1,12000,KwaZulu-Natal,12000
+ORD012,Brian,Headphones,Accessories,3,1800,Gauteng,5400
+ORD013,Tshepo,Monitor,Electronics,2,4200,Western Cape,8400
+ORD014,Amanda,Mouse,Accessories,5,350,Gauteng,1750
+ORD015,Neo,Laptop,Electronics,1,12000,Gauteng,12000
+ORD016,Olivia,Keyboard,Accessories,2,650,Eastern Cape,1300
+ORD017,Karabo,Monitor,Electronics,2,4200,KwaZulu-Natal,8400
+ORD018,Michael,Headphones,Accessories,4,1800,Gauteng,7200
+ORD019,Boitumelo,Laptop,Electronics,1,12000,Western Cape,12000
+ORD020,James,Mouse,Accessories,3,350,Gauteng,1050
